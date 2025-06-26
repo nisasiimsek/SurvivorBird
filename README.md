@@ -1,24 +1,39 @@
 # 🐤 SurvivorBird
 
-**SurvivorBird** is a fun, reflex-based 2D bird game developed with LibGDX. The player tries to avoid bees and survive as long as possible while aiming for the highest score.
+SurvivorBird is a simple yet addictive 2D survival game developed with [LibGDX](https://libgdx.com/). You control a little bird flying through the sky, trying to dodge randomly positioned bees. The longer you survive, the higher your score!
+
+![Gameplay Screenshot](docs/screenshot.png)
 
 ---
 
-## 🎮 Gameplay Summary
+## 🎮 Gameplay
 
-- **Objective:** Keep the bird alive as long as possible by dodging incoming bees.
-- **Control:** Tap the screen to make the bird fly upward.
-- **Score:** Earn points for each group of bees you pass, and try to beat your high score.
+- Tap to make the bird fly upward.
+- Avoid the bees — they come in randomly offset groups of three.
+- Each time you pass a group of bees, your score increases.
+- The bees speed up gradually, increasing difficulty.
+- Try to beat your **high score**, which is tracked automatically!
 
 ---
 
 ## ✨ Features
 
-- 📈 Increasing difficulty over time
-- 🐝 Multiple randomly placed bees
-- 🏆 Score and high score tracking
-- ⚡ Simple yet addictive mechanics
+- 🐝 Dynamic enemy generation with randomized vertical offsets
+- ⚙️ Gradually increasing difficulty as your score rises
+- 📊 Real-time score and high score tracking
+- 🎯 Intuitive tap-based control
+- 💥 Collision detection using geometric intersections
+- 📱 Android support + Desktop support
 
 ---
 
-![SurvivorBird Gameplay](docs/SurvivorBird.png)
+## 🧪 Technologies Used
+
+| Tool       | Purpose                        |
+|------------|--------------------------------|
+| Java       | Core programming language      |
+| LibGDX     | Game development framework     |
+| Gradle     | Build automation               |
+| Android SDK | Android platform support      |
+| Git        | Version control                |
+
