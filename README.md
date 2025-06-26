@@ -21,9 +21,4 @@
 
 ---
 
-## 🛠️ Setup and Run
-
-1. **Clone the Project:**
-   ```bash
-   git clone https://github.com/yourusername/survivorbird.git
-   cd survivorbird
+![SurvivorBird Gameplay](docs/SurvivorBird.png)
