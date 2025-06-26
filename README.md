@@ -2,7 +2,7 @@
 
 SurvivorBird is a simple yet addictive 2D survival game developed with [LibGDX](https://libgdx.com/). You control a little bird flying through the sky, trying to dodge randomly positioned bees. The longer you survive, the higher your score!
 
-![Gameplay Screenshot](docs/screenshot.png)
+![Gameplay Screenshot](docs/SurvivorBird.png)
 
 ---
 
